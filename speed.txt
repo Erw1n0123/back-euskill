@@ -1,0 +1,1 @@
+Scaffold-DbContext "server=localhost;database=!!!!!!!!!!;user=root;password=;sslmode=none;" mysql.entityframeworkcore -outputdir Models –f
